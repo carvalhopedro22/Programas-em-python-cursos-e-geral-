@@ -1,2 +1,2 @@
-## 🖥️ Programas em python (cursos e geral)
-📌 Programas feitos em python durante cursos online.
+## 🖥️ Programas em Python (cursos e geral)
+📌 Programas feitos em Python durante cursos online.
